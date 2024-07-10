@@ -83,4 +83,4 @@ Special thanks to the project supervisors Dr.Can Li and contributors for their g
 
 ---
 
-For more details, please refer to the [technical paper](link_to_technical_paper.pdf).
+For more details, please refer to the [technical paper](https://pan.baidu.com/s/1FCUw8LEnx3KPdNBm-D1ciA?pwd=t7hi).
