@@ -79,7 +79,7 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-Special thanks to the project supervisors Dr.Can Li and contributors for their guidance and support.
+Special thanks to the project supervisors Dr. Can Li and contributors for their guidance and support.
 
 ---
 
